@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsumerMQ": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
